@@ -104,5 +104,5 @@ def menú_principal():
         else:
             print("Opción inválida. Ingrese un número del 1 al 4.")
 
-if __name__ == "__main__":
-    menú_principal()
+
+menú_principal()
